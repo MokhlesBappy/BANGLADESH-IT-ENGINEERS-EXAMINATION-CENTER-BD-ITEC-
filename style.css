@@ -1,0 +1,45 @@
+span{  
+  margin-right: -4px;     
+}
+
+.nava{
+    text-decoration: none;
+    color: white;
+    padding: 20px 22px;
+    border-right: 1px solid #007e73;
+    background-color: #009a8c;
+    font-size: 13px;
+    
+    
+}
+
+.fotterimg{
+ background-image: url("footer-bg.png");
+
+}
+
+
+/* .test1{
+ 
+ display: inline-block;
+} */
+
+/* .li1{
+    display: contents;
+} */
+
+/* .li1 ::before{
+    content: "1";
+} */
+
+.li1{
+    color: #636363;
+}
+
+strong{
+    font-weight: 700;
+    color: #000;
+    font-family: 'Open Sans', 'Myriad Pro', 'Helvetica', sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+}
